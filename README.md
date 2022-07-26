@@ -1,4 +1,4 @@
-# Estadistica
+# Estadistica Aplicada y Muestreo
 
 ## Bitcoin-Proyecto
 
